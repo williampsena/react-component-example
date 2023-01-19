@@ -1,0 +1,1 @@
+surge ./dist simple-react-component-willsena.surge.sh
