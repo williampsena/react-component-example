@@ -1,0 +1,23 @@
+{
+  "name": "simple-react-component",
+  "version": "1.0.0",
+  "description": "This repository contains React Component example with parcel as bundler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williampsena/react-component-example.git"
+  },
+  "author": "William Sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williampsena/react-component-example/issues"
+  },
+  "homepage": "https://github.com/williampsena/react-component-example#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
