@@ -9,3 +9,7 @@ This repository contains React Component example with parcel as bundler.
 Thank you for providing a static server for us, [Surge](https://surge.sh/).
 
 [Check out this live and working example](https://simple-react-component-willsena.surge.sh)
+
+# Article references
+
+[Creating TypeScript React Components with Parcel Bundler](https://willsena.dev/creating-typescript-react-components-with-parcel-bundler/)
